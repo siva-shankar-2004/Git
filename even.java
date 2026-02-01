@@ -14,6 +14,6 @@ public class even {
         {
             System.out.println("the given number is odd");
         }
-       scan.close();
+      
     }
 }
